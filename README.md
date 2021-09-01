@@ -31,6 +31,7 @@ https://www.npmtrends.com/joi-vs-yup-vs-zod-vs-ajv
 - Schema => TS の型がある
 - 依存に lodash を持っていてやばそう
 - 2021-09-02 時点だと v1 系がアルファ版で今後に期待？
+  - 最後のリリースが `on 19 Dec 2020` だった...
 
 ## ajv
 
