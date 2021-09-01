@@ -26,8 +26,10 @@ https://www.npmtrends.com/joi-vs-yup-vs-zod-vs-ajv
 
 - https://github.com/jquense/yup
 - 機能がまあまあある
+  - xor 的なやつは自分で書くらしい
+    - https://github.com/jquense/yup/issues/505#issuecomment-476996642
 - Schema => TS の型がある
-- 依存に yup を持っていてやばそう
+- 依存に lodash を持っていてやばそう
 - 2021-09-02 時点だと v1 系がアルファ版で今後に期待？
 
 ## ajv
