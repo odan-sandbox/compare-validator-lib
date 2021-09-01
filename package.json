@@ -26,5 +26,8 @@
     "test:lint": "eslint --ext .js,.ts --ignore-path .gitignore .",
     "test:format": "prettier --ignore-path .gitignore . --check",
     "format": "prettier --ignore-path .gitignore . --write"
+  },
+  "dependencies": {
+    "zod": "^3.8.1"
   }
 }
