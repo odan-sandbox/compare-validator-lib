@@ -37,3 +37,7 @@ https://www.npmtrends.com/joi-vs-yup-vs-zod-vs-ajv
 
 - https://github.com/ajv-validator/ajv
 - DL 回数は断トツで実績がありそう
+
+# メモ
+
+https://github.com/react-hook-form/resolvers にあるライブラリがよく使われるやつなのかも
